@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkHRIuFQnw0=",
+  "dgSpecHash": "fm3N2Lyq/z0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kures\\byui-classes\\CSE325\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

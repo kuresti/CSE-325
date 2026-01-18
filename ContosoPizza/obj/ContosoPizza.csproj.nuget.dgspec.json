@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kures\\byui-classes\\CSE325\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kures\\byui-classes\\CSE325\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kures\\byui-classes\\CSE325\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\kures\\byui-classes\\CSE325\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\kures\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kures\\byui-classes\\CSE325\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kures\\AppData\\Roaming\\NuGet\\NuGet.Config"
