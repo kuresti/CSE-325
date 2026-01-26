@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using UrestiMovieMvc.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<UrestiMovieMvcContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("UrestiMovieMvcContext") ?? throw new InvalidOperationException("Connection string 'UrestiMovieMvcContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
