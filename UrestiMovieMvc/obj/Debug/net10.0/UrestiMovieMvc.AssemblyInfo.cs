@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrestiMovieMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cce233790e81de4219fe2b56b416896b09c90b43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c89c3de93ea617363f2e6cb8b825be47757387c")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrestiMovieMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrestiMovieMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
