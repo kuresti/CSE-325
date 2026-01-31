@@ -11,7 +11,7 @@ using UrestiMovieMvc.Data;
 namespace UrestiMovieMvc.Migrations
 {
     [DbContext(typeof(UrestiMovieMvcContext))]
-    [Migration("20260126193033_InitialCreate")]
+    [Migration("20260131204623_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -30,6 +30,9 @@ namespace UrestiMovieMvc.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18, 2)");
+
+                    b.Property<string>("Rating")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("ReleaseDate")

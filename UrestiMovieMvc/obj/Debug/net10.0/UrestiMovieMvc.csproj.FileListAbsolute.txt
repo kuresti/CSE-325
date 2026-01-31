@@ -22,7 +22,6 @@ C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\rjsm
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\scopedcss\bundle\UrestiMovieMvc.styles.css
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\scopedcss\projectbundle\UrestiMovieMvc.bundle.scp.css
-C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\compressed\z8g3lpgf2i-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\compressed\gfbbmimeh2-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\compressed\sova9akxw6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\compressed\xwdxst039l-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -366,3 +365,4 @@ C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\bin\Debug\net10.0\runt
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\UrestiMovieMvc.csproj.AssemblyReference.cache
 C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\UrestiMo.C1E5FF3C.Up2Date
+C:\Users\kures\byui-classes\CSE325\CSE-325\UrestiMovieMvc\obj\Debug\net10.0\compressed\z8g3lpgf2i-{0}-88jdrb04c0-88jdrb04c0.gz

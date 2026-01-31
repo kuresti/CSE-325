@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OB7NaD4pD+4=",
+  "dgSpecHash": "W6TMfaWPzlw=",
   "success": true,
   "projectFilePath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\UrestiMovieMvc\\UrestiMovieMvc.csproj",
   "expectedPackageFiles": [
@@ -87,6 +87,7 @@
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.2\\microsoft.entityframeworkcore.sqlserver.10.0.2.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.2\\microsoft.entityframeworkcore.tools.10.0.2.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.2\\microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
+    "C:\\Users\\kures\\.nuget\\packages\\microsoft.extensions.validation\\10.0.0\\microsoft.extensions.validation.10.0.0.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
@@ -136,5 +137,18 @@
     "C:\\Users\\kures\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\kures\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Validation will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\UrestiMovieMvc\\UrestiMovieMvc.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\UrestiMovieMvc\\UrestiMovieMvc.csproj",
+      "libraryId": "Microsoft.Extensions.Validation",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
