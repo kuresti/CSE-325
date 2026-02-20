@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {}
+    "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {
+    "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
+        "projectUniqueName": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
         "projectName": "BlazingPizzaSite",
-        "projectPath": "c:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
+        "projectPath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
         "packagesPath": "C:\\Users\\kures\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\obj\\",
+        "outputPath": "C:\\Users\\kures\\byui-classes\\CSE325\\CSE-325\\BlazingPizzaSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kures\\AppData\\Roaming\\NuGet\\NuGet.Config"
