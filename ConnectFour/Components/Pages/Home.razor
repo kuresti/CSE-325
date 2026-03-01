@@ -1,0 +1,28 @@
+﻿@page "/"
+
+
+<h3>Select your colors:</h3>
+<label>Player 1 Color:</label>
+<input type="color" @bind="player1Color" />
+<span>@player1Color</span>
+<br /><br />
+<label>Player 2 Color:</label>
+<input type="color" @bind="player2Color" />
+<span>@player2Color</span>
+<br /><br />
+
+<PageTitle>Index</PageTitle>
+<Board Player1Color = "@player1Color"
+       Player2Color = "@player2Color"
+       @rendermode="InteractiveServer" />
+
+
+@code {
+    private List<string> colors = new()
+    {
+        "purple", "orange", "light-blue", "green", "pink"
+    };
+
+    private string player1Color = "red";
+    private string player2Color = "blue";
+}
